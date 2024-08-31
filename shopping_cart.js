@@ -1,0 +1,1 @@
+console.log("in this we create a shopping cart for users that visit shopping website and add some item in there cart so that cart show there product in this ")
