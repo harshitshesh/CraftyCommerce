@@ -12,3 +12,15 @@
 - Akshay
 - Raghav
 - lakshami
+
+## Listing products
+
+### In this we create feature of listing all products shows of user so he/she buy that product if they like it . 
+
+## Customer review
+
+### In this we create a feature for user that use our website or visit and buy something product so they review for product if they like or not and some user feedback of our website 
+
+## Shopping cart
+
+### In this feature we create a cart in this when user select some product so that all products will show of user shopping cart so they easyly buy that prodcut and watch that product what ever they like 
